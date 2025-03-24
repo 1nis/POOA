@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/POOA.iml" filepath="$PROJECT_DIR$/.idea/POOA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pooa_tp1_ex1/pooa_tp1_ex1.iml" filepath="$PROJECT_DIR$/pooa_tp1_ex1/pooa_tp1_ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pooa_tp1_ex2/pooa_tp1_ex2.iml" filepath="$PROJECT_DIR$/pooa_tp1_ex2/pooa_tp1_ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pooa_tp2_ex1/pooa_tp2_ex1.iml" filepath="$PROJECT_DIR$/pooa_tp2_ex1/pooa_tp2_ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pooa_tp2_ex2/pooa_tp2_ex2.iml" filepath="$PROJECT_DIR$/pooa_tp2_ex2/pooa_tp2_ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pooa_tp2_ex3/pooa_tp2_ex3.iml" filepath="$PROJECT_DIR$/pooa_tp2_ex3/pooa_tp2_ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pooa_tp2_ex4/pooa_tp2_ex4.iml" filepath="$PROJECT_DIR$/pooa_tp2_ex4/pooa_tp2_ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pooa_tp3_ex1/pooa_tp3_ex1.iml" filepath="$PROJECT_DIR$/pooa_tp3_ex1/pooa_tp3_ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pooa_tp3_ex2/pooa_tp3_ex2.iml" filepath="$PROJECT_DIR$/pooa_tp3_ex2/pooa_tp3_ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pooa_tp4_ex1/pooa_tp4_ex1.iml" filepath="$PROJECT_DIR$/pooa_tp4_ex1/pooa_tp4_ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pooa_tp4_ex2/pooa_tp4_ex2.iml" filepath="$PROJECT_DIR$/pooa_tp4_ex2/pooa_tp4_ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pooa_tp5_ex2/pooa_tp5_ex2.iml" filepath="$PROJECT_DIR$/pooa_tp5_ex2/pooa_tp5_ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pooa_tp5_ex3/pooa_tp5_ex3.iml" filepath="$PROJECT_DIR$/pooa_tp5_ex3/pooa_tp5_ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pooa_tp5_ex4/pooa_tp5_ex4.iml" filepath="$PROJECT_DIR$/pooa_tp5_ex4/pooa_tp5_ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pooa_tp6_ex1/pooa_tp6_ex1.iml" filepath="$PROJECT_DIR$/pooa_tp6_ex1/pooa_tp6_ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pooa_tp6_ex2/pooa_tp6_ex2.iml" filepath="$PROJECT_DIR$/pooa_tp6_ex2/pooa_tp6_ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pooa_tp6_ex3/pooa_tp6_ex3.iml" filepath="$PROJECT_DIR$/pooa_tp6_ex3/pooa_tp6_ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pooa_tp6_ex4/pooa_tp6_ex4.iml" filepath="$PROJECT_DIR$/pooa_tp6_ex4/pooa_tp6_ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pooa_tp7_ex1/pooa_tp7_ex1.iml" filepath="$PROJECT_DIR$/pooa_tp7_ex1/pooa_tp7_ex1.iml" />
+    </modules>
+  </component>
+</project>
