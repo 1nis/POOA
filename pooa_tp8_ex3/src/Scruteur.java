@@ -1,2 +1,3 @@
-public class Scruteur {
+public class Scruteur extends Thread{
+    
 }
