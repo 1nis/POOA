@@ -1,8 +1,18 @@
-public class Main extends Thread{
-    Assesseur Joe = new Assesseur();
-    Assesseur Averell = new Assesseur();
+public class Main {
+    public static void main(String[] args) throws InterruptedException {
+        Urne uneUrne = new Urne();
+        Candidat Duke = new Candidat("Duke");
+        Candidat Bugee = new Candidat("Bugee");
+        Assesseur Joe = new Assesseur(uneUrne, Duke, Bugee);
+        Assesseur Averell = new Assesseur(uneUrne, Duke, Bugee);
 
-    public static void main(String[] args) {
-        
+        Joe.start();
+        Averell.start();
+        Joe.join();
+        Averell.join();
+
+        System.out.println("Résultats Bugee : " + Bugee.getVoix());
+        System.out.println("Résultats Duke : " + Duke.getVoix());
+
     }
 }
