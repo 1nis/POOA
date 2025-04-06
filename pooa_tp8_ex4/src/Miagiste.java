@@ -1,6 +1,8 @@
 import java.sql.SQLOutput;
 import java.util.ArrayList;
 
+import static java.lang.Thread.sleep;
+
 public class Miagiste implements Runnable {
 
     private String nom;
@@ -13,10 +15,9 @@ public class Miagiste implements Runnable {
 
     @Override
     public void run() {
-        synchronized (leMicro) {
             for (int i = 1; i < 6; i++) {
                 leMicro.parler(this.nom, i, "Phrase");
             }
         }
     }
-}
+

@@ -9,6 +9,8 @@ public class Main {
         Joe.start();
         Averell.start();
         Joe.join();
+        System.out.println(Duke.getVoix());
+        Duke.compteur;
         Averell.join();
 
         System.out.println("Résultats Bugee : " + Bugee.getVoix());
